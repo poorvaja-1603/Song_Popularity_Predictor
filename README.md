@@ -21,8 +21,8 @@
     - Deployed using streamlit
     - Used pickle for model saving
  - ## A glimpse of the webapp ##
- ![App_Preview1](app_screenshots\app_ss_1.png)
- ![App_Preview2](app_screenshots\app_ss_2.png)
+ ![App_Preview1](app_screenshots/app_ss_1.png)
+ ![App_Preview2](app_screenshots/app_ss_2.png)
  ## How to get song details? ##
  Get them from the [Spotify Developer Console](https://developer.spotify.com/console/get-audio-features-track/)
     
